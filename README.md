@@ -16,7 +16,7 @@ cd 项目根目录，
 
 1. 首先修改数据库信息，在/shoppingmall/settings.py中，修改数据库的名称和密码：
 
-   ![](static/img/database.png)
+   ![jzq1RH.png](https://s1.ax1x.com/2022/07/26/jzq1RH.png)
 
 2. 生成迁移文件：`python manage.py makemigrations`
 
@@ -30,13 +30,13 @@ cd 项目根目录，
 
 ### 数据库设计
 
-![](static/img/design.png)
+![jzqGQA.png](https://s1.ax1x.com/2022/07/26/jzqGQA.png)
 
 ### 页面
 
-![](static/img/1.png)
+![jzqNeP.png](https://s1.ax1x.com/2022/07/26/jzqNeP.png)
 
-![](static/img/2.png)
+![jzqJsI.png](https://s1.ax1x.com/2022/07/26/jzqJsI.png)
 
-![](static/img/3.png)
+![jzq3zd.png](https://s1.ax1x.com/2022/07/26/jzq3zd.png)
 
