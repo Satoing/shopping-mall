@@ -22,7 +22,7 @@ cd 项目根目录，
 
 3. 执行迁移脚本：`python manage.py migrate`。如果结果如下，那么就没有问题。
 
-   ![](https://cloud.fullcomb.top/private/source/image/python/django_note/image-20220428162336508.png)
+   ![](https://s1.ax1x.com/2022/07/26/jzLp6A.png)
 
 4. 启动项目：`python manage.py runserver`，也可以自定义allowed hosts和port。
 
